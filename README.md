@@ -25,7 +25,7 @@ This project lets you detect objects in:
 
 ```bash
 git clone https://github.com/suganthangnanavelan/Yolo-Object-Detection.git
-cd your-repo-name
+cd Yolo-Object-Detection
 ```
 
 ### 2. Setup a Virtual Environment
