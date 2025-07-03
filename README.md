@@ -1,11 +1,12 @@
-# Real-Time Object Detection with YOLOv8 (Webcam, Image & Video)
+# Real-Time Object Detection with YOLOv8 
+# (Webcam, Image & Video)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLO-v8-orange?logo=github)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Welcome to this object detection app powered by **YOLOv8** and built using **Streamlit**.
+This is a object detection app powered by **YOLOv8** and built using **Streamlit**.
 This project lets you detect objects in:
 
 * Live webcam feed
@@ -23,7 +24,7 @@ This project lets you detect objects in:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/suganthangnanavelan/Yolo-Object-Detection.git
 cd your-repo-name
 ```
 
@@ -55,4 +56,4 @@ streamlit run app.py
 * Real-time object detection.
 * Drag-and-drop image or video uploads.
 * Confidence threshold slider to filter predictions.
-* Easy to use (Runs Locally)
+* Easy to use **(Runs Locally)**
