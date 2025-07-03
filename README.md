@@ -50,6 +50,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+To test use the image or video within data folder
+
 ## Highlighting Features
 
 * Streamlit-powered interactive UI with a clean look and feel.
