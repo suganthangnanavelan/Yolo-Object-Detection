@@ -1,3 +1,3 @@
-ultralytics==8.3.161
+streamlit==1.46.1
+ultralytics==8.3.162
 opencv-python==4.11.0.86
-streamlit
