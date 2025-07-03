@@ -1,7 +1,7 @@
 # Real-Time Object Detection with YOLOv8 
 # (Webcam, Image & Video)
 
-![Static Badge](https://img.shields.io/badge/Built%20with-Lemon-blue?logoColor=yell)
+![Static Badge](https://img.shields.io/badge/Built%20with-Lemon%20Juice-orange?logoColor=yell)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLO-v8-orange?logo=github)
