@@ -50,7 +50,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-To test use the image or video within data folder
+To test use the sample image/video within data folder
 
 ## Highlighting Features
 
